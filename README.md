@@ -1,6 +1,9 @@
-**TinyDPS is a lightweight damage and healing meter.**
+# TinyDPS Classic #
+This work is a fork of the [original](https://github.com/Talyrius/TinyDPS), updated to work with WotLK Classic
 
-Looking for an addon to measure damage and healing without adversely affecting your gameplay experience? TinyDPS should suit your needs. By excluding unnecessary features (graphs, pie charts, extensive data collection, etc.) and offering a minimalistic interface, TinyDPS attempts to maintain a balance between information and performance.
+**TinyDPS Classic is a lightweight damage and healing meter.**
+
+Looking for an addon to measure damage and healing without adversely affecting your gameplay experience? TinyDPS Classic should suit your needs. By excluding unnecessary features (graphs, pie charts, extensive data collection, etc.) and offering a minimalistic interface, TinyDPS Classic attempts to maintain a balance between information and performance.
 
 ## Usage
   * Options are available by right-clicking on the frame or minimap button.
@@ -22,6 +25,4 @@ Looking for an addon to measure damage and healing without adversely affecting y
 
 ## Feedback
 ### Bug Reports and Feature Requests
-  Please submit bug reports and feature requests using the [GitHub issue tracker](https://github.com/Talyrius/TinyDPS/issues).
-### Comments
-  You may leave comments at [WoWInterface](https://www.wowinterface.com/downloads/info16780-TinyDPS.html#comments).
+Please submit bug reports and feature requests using the [GitHub issue tracker](https://github.com/JohnCWakley/tiny-dps-classic/issues).
