@@ -1,0 +1,19 @@
+## Interface: 30400
+
+## Title: TinyDPSClassic
+## Notes: A lightweight damage and healing meter, updated for WotLK Classic.
+
+## Author: sbd74, Talyrius (former), Sideshow (former)
+## Version: 0.1.0
+
+## SavedVariables: tdps, tdpsPosition, tdpsFont, tdpsNumberOfFights, tdpsF, tdpsV, tdpsTextOffset, tdpsColorAlpha, tdpsVisibleBars, tdpsReportLength
+## SavedVariablesPerCharacter: tdpsVersion, tdpsPlayer, tdpsLink, tdpsPet, tdpsFight, tdpsPartySize, tdpsCombat, tdpsNewFight
+## OptionalDependencies: LibStub, LibBossIDs-1.0
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+## X-LoadOn-Combat: true
+
+Libs\LibStub\LibStub.lua
+Libs\LibBossIDs-1.0\lib.xml
+
+TinyDPS.lua
